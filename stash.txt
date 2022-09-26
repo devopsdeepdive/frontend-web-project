@@ -1,4 +1,2 @@
 Hello 
 this is stash example
-
-this is the fourth line
